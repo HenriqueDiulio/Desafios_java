@@ -1,0 +1,14 @@
+package Desafio;
+
+import java.util.Scanner;
+
+public class salario {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		public String salario,salario2,salario3;
+
+	}
+
+}
